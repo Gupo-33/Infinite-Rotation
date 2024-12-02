@@ -29,6 +29,7 @@
     {"name":"obj_player_projectile","order":4,"path":"objects/obj_player_projectile/obj_player_projectile.yy",},
     {"name":"obj_player_shield","order":3,"path":"objects/obj_player_shield/obj_player_shield.yy",},
     {"name":"obj_projectile","order":9,"path":"objects/obj_projectile/obj_projectile.yy",},
+    {"name":"rm_boss_1","order":7,"path":"rooms/rm_boss_1/rm_boss_1.yy",},
     {"name":"rm_credits","order":5,"path":"rooms/rm_credits/rm_credits.yy",},
     {"name":"rm_end","order":6,"path":"rooms/rm_end/rm_end.yy",},
     {"name":"rm_gameover","order":3,"path":"rooms/rm_gameover/rm_gameover.yy",},

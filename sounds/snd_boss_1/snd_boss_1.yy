@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":16.032,
+  "duration":10.056,
   "name":"snd_boss_1",
   "parent":{
     "name":"Sounds",

@@ -1,6 +1,6 @@
 if spin {
 	image_angle += 1;
-	if !instance_exists(obj_boss_1_shield) {
+	if !instance_exists(child) {
 		image_angle += 1;
 	}
 }

@@ -17,5 +17,5 @@ alarm[0] = 15;
 if !spin {
 	audio_play_sound(snd_boss_0,2,true);
 	spin = true;
-	obj_boss_1_shield.spin = true;
+	child.spin = true;
 }

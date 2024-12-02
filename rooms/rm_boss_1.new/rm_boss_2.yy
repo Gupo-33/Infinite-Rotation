@@ -1,15 +1,15 @@
 {
   "$GMRoom":"",
-  "%Name":"rm_boss_1",
+  "%Name":"rm_boss_2",
   "creationCodeFile":"",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_242958DD_1","path":"rooms/rm_boss_1/rm_boss_1.yy",},
-    {"name":"inst_3AD35D0B_1","path":"rooms/rm_boss_1/rm_boss_1.yy",},
-    {"name":"inst_14EBB5C4_1","path":"rooms/rm_boss_1/rm_boss_1.yy",},
-    {"name":"inst_54FE724F_1","path":"rooms/rm_boss_1/rm_boss_1.yy",},
+    {"name":"inst_242958DD_1","path":"rooms/rm_boss_2/rm_boss_2.yy",},
+    {"name":"inst_3AD35D0B_1","path":"rooms/rm_boss_2/rm_boss_2.yy",},
+    {"name":"inst_14EBB5C4_1","path":"rooms/rm_boss_2/rm_boss_2.yy",},
+    {"name":"inst_54FE724F_1","path":"rooms/rm_boss_2/rm_boss_2.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -23,7 +23,7 @@
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":300,"effectEnabled":true,"effectType":null,"gridX":16,"gridY":16,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
-  "name":"rm_boss_1",
+  "name":"rm_boss_2",
   "parent":{
     "name":"Rooms",
     "path":"folders/Rooms.yy",
