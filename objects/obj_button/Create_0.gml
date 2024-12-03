@@ -4,7 +4,7 @@ if room == rm_main {
 	} else {
 		text = "CREDITS";
 	}
-} else if room != rm_end {
+} else if room != rm_end && room != rm_gameover {
 	text = "BACK";
 } else {
 	text = "MAIN\nMENU";

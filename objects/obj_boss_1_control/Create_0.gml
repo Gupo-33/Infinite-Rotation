@@ -39,4 +39,7 @@ for(var i = 0; i < array_length(pos_array); i++) {
 		}
 	}
 }
+
+instance_create_layer(x,y,"GUI",obj_bossbar_load);
+
 instance_destroy(self);

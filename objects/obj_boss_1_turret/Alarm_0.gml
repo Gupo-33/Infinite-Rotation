@@ -1,5 +1,7 @@
 /// @description phase switch
 
+canHurt = true;
+
 deployed = !deployed
 
 if deployed {
