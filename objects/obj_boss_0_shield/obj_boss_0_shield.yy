@@ -1,13 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_player_projectile",
+  "%Name":"obj_boss_0_shield",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_boss_0_shield","path":"objects/obj_boss_0_shield/obj_boss_0_shield.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_boss_0","path":"objects/obj_boss_0/obj_boss_0.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_player_projectile",
+  "name":"obj_boss_0_shield",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -32,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_player_projectile",
-    "path":"sprites/spr_player_projectile/spr_player_projectile.yy",
+    "name":"spr_boss_1",
+    "path":"sprites/spr_boss_1/spr_boss_1.yy",
   },
   "spriteMaskId":null,
   "visible":true,
