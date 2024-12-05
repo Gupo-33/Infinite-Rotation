@@ -27,3 +27,9 @@ Day 7: difficulty curve
   - added pausing & unpausing
   - added Vaporizer bossfight (final bossfight for now, the rest will come in the form of updates)
   - insane difficulty curve fr fr
+
+Day 8: the end
+  - tears in my eyes rn
+  - stop being so dramatic it only took like 7 hours total
+  - reworked all sounds (bye bye crappy music)
+  - made itch.io page

@@ -8,4 +8,4 @@ firing = false;
 iframe = 0;
 maxiframe = 10;
 
-canHurt = false;
+can_hurt = false;

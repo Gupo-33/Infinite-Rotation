@@ -1,4 +1,4 @@
-canHurt = true;
+can_hurt = true;
 
 if choose(true,false) {
 	loaded = true;

@@ -1,6 +1,6 @@
 /// @description phase switch
 
-canHurt = true;
+can_hurt = true;
 
 deployed = !deployed
 
