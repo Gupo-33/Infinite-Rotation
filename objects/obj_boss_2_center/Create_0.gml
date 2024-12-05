@@ -9,3 +9,5 @@ for(var i = 0; i < 360; i+=90) {
 }
 
 instance_create_layer(x,y,"GUI",obj_bossbar_load);
+
+alarm[0] = 130;

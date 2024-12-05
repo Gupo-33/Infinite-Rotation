@@ -15,7 +15,8 @@ if !instance_exists(obj_boss_0_shield) {
 alarm[0] = 15;
 
 if !spin {
-	audio_play_sound(snd_boss_0,2,true);
 	spin = true;
 	obj_boss_0_shield.spin = true;
 }
+
+audio_play_sound(snd_enemy_shoot,1,false);

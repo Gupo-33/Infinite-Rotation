@@ -1,4 +1,5 @@
 pos_array = [[300,201.5],[335,216.5],[345,253.5],[360,225.5],[375,253.5],[385,215.5],[420,199.5],[360,265.5]];
+audio_play_sound(snd_boss_1,2,true);
 
 for(var i = 0; i < array_length(pos_array); i++) {
 	if i == 0 or i == 5 {
@@ -42,4 +43,4 @@ for(var i = 0; i < array_length(pos_array); i++) {
 
 instance_create_layer(x,y,"GUI",obj_bossbar_load);
 
-instance_destroy(self);
+alarm[1] = 120;
