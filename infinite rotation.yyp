@@ -94,9 +94,9 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_preload","path":"rooms/rm_preload/rm_preload.yy",},},
     {"roomId":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
-    {"roomId":{"name":"rm_boss_2","path":"rooms/rm_boss_2/rm_boss_2.yy",},},
     {"roomId":{"name":"rm_boss_0","path":"rooms/rm_boss_0/rm_boss_0.yy",},},
     {"roomId":{"name":"rm_boss_1","path":"rooms/rm_boss_1/rm_boss_1.yy",},},
+    {"roomId":{"name":"rm_boss_2","path":"rooms/rm_boss_2/rm_boss_2.yy",},},
     {"roomId":{"name":"rm_end","path":"rooms/rm_end/rm_end.yy",},},
     {"roomId":{"name":"rm_help","path":"rooms/rm_help/rm_help.yy",},},
     {"roomId":{"name":"rm_credits","path":"rooms/rm_credits/rm_credits.yy",},},
