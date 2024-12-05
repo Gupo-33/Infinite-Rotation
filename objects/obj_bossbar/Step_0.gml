@@ -14,5 +14,9 @@ if active {
 				other.hp += hp;
 			}
 			break;
+		case rm_boss_2:
+			with(obj_boss_2_laser) {
+				other.hp += hp;
+			}
 	}
 }

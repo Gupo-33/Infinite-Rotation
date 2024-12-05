@@ -1,3 +1,5 @@
+audio_stop_sound(snd_gameover);
+
 switch text {
 	case "HELP":
 		room_goto(rm_help);

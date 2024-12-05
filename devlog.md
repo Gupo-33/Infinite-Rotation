@@ -17,3 +17,13 @@ Day 5: naming is hard
   - first non-tutorial boss implemented! needs music, and a name
   - redid hp bar sprite
   - didn't write down what I did so idk what to put here oops
+
+Day 6: a boss walks into a bar
+  - added boss HP bars
+  - named the bosses (boss_0 = "Clockwork", boss_1 = "Automaton")
+  - polished Automaton bossfight
+
+Day 7: difficulty curve
+  - added pausing & unpausing
+  - added Vaporizer bossfight (final bossfight for now, the rest will come in the form of updates)
+  - insane difficulty curve fr fr
