@@ -1,0 +1,1 @@
+obj_player.alarm[10] = 10;

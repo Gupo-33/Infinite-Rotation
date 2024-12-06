@@ -18,5 +18,12 @@ if active {
 			with(obj_boss_2_laser) {
 				other.hp += hp;
 			}
+		case rm_boss_3:
+			with obj_boss_3 {
+				other.hp += hp;
+			}
+			with obj_boss_3_shield {
+				other.hp += hp;
+			}
 	}
 }
