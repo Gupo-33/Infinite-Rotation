@@ -33,3 +33,9 @@ Day 8: the end
   - stop being so dramatic it only took like 7 hours total
   - reworked all sounds (bye bye crappy music)
   - made itch.io page
+
+Day 9: sike
+  - yeah I wasn't done
+  - new boss: Clockwork Prime (not as hard as vaporizer but still challenging)
+  - C. Prime has deflectors which turn the player's projectiles against them
+  - added level select
