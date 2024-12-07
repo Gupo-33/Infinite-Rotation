@@ -1,0 +1,1 @@
+draw_text_color(x*1.5,y*1.5,"Level Select",c,c,c,c,1);

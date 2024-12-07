@@ -1,0 +1,1 @@
+room_goto(asset_get_index(string("rm_boss_{0}",level)));
