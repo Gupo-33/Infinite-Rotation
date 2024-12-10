@@ -39,3 +39,8 @@ Day 9: sike
   - new boss: Clockwork Prime (not as hard as vaporizer but still challenging)
   - C. Prime has deflectors which turn the player's projectiles against them
   - added level select
+
+Day 10:
+  - new boss (well, kind of): Automaton Prime, still WIP and only has 1 attack
+  - fixed bug that doesn't let users move from level 2 to 3
+  - changed some "rendering" code on level select menu
