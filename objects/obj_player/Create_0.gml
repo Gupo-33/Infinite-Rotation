@@ -4,3 +4,5 @@ cool = 0;
 maxCool = 10;
 
 path_start(path_circle,spd,path_action_continue,true);
+
+iamtoolazytodothisinabetterway = false;

@@ -5,6 +5,7 @@ if hp <= 0 {
 	room_goto(rm_gameover);
 }
 
-if room == rm_boss_1 && !instance_exists(obj_boss_1_turret) && instance_exists(obj_bossbar) {
+if room == rm_boss_1 && !instance_exists(obj_boss_1_turret) && instance_exists(obj_bossbar) && !iamtoolazytodothisinabetterway {
 	alarm[10] = 10;
+	iamtoolazytodothisinabetterway = true;
 }

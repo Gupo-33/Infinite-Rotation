@@ -25,5 +25,10 @@ if active {
 			with obj_boss_3_shield {
 				other.hp += hp;
 			}
+		case rm_boss_4:
+			with(obj_boss_4_turret) {
+				other.hp += hp;
+			}
+			break;
 	}
 }

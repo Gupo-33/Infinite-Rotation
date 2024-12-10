@@ -13,4 +13,7 @@ switch room {
 	case rm_boss_3:
 		_name = "Clockwork Prime";
 		break;
+	case rm_boss_4:
+		_name = "Automaton Prime";
+		break;
 }
