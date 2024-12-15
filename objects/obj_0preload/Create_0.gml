@@ -1,4 +1,4 @@
 window_center();
 alarm[0] = 1;
 
-global.levels = 5;
+global.levels = 6;

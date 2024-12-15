@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"spr_boss_4_eye",
   "bboxMode":0,
-  "bbox_bottom":5,
+  "bbox_bottom":6,
   "bbox_left":0,
-  "bbox_right":5,
+  "bbox_right":6,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":6,
+  "height":7,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"8e8f2721-bd1b-44c6-83a5-621489639bb0","blendMode":0,"displayName":"default","isLocked":false,"name":"8e8f2721-bd1b-44c6-83a5-621489639bb0","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":6,
+  "width":7,
 }

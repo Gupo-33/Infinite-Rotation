@@ -44,3 +44,7 @@ Day 10:
   - new boss (well, kind of): Automaton Prime, still WIP and only has 1 attack
   - fixed bug that doesn't let users move from level 2 to 3
   - changed some "rendering" code on level select menu
+
+Day 11: after a brief break...
+  - finished Automaton Prime
+  - resized some level select stuff

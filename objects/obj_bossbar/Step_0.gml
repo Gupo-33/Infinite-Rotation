@@ -26,7 +26,7 @@ if active {
 				other.hp += hp;
 			}
 		case rm_boss_4:
-			with(obj_boss_4_turret) {
+			with(obj_boss_4) {
 				other.hp += hp;
 			}
 			break;
