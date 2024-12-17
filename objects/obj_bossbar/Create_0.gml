@@ -18,4 +18,7 @@ switch room {
 	case rm_boss_4:
 		maxHP = 150;
 		break;
+	case rm_boss_5:
+		maxHP = 4*30;
+		break;
 }

@@ -9,6 +9,13 @@ if attack {
 	}
 	attackangle += 1;
 }
+if attack && obj_boss_4.hp < 100 {
+	var did_i_get_him = collision_line(x, y, x + 500*dcos(attackangle+180), y - 500*dsin(attackangle+180),obj_player,false,false)
+	if did_i_get_him != noone && iframe <= 0 {
+		did_i_get_him.hp -= 1;
+		iframe = maxiframe;
+	}
+}
 
 if machinegun && cool <= 0 {
 	ang += 5;

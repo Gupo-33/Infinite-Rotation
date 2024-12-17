@@ -48,3 +48,8 @@ Day 10:
 Day 11: after a brief break...
   - finished Automaton Prime
   - resized some level select stuff
+
+Day 12: the end, again
+  - renamed Automaton Prime to Automaton Warrior
+  - added 6th boss (final one for update 1) Vaporizer Hyperspeed
+  - added difficulty thingy in level select

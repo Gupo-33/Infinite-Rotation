@@ -10,6 +10,7 @@
     {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_boss_3","path":"objects/obj_boss_3/obj_boss_3.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_boss_3_shield","path":"objects/obj_boss_3_shield/obj_boss_3_shield.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_boss_4","path":"objects/obj_boss_4/obj_boss_4.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_boss_5_laser","path":"objects/obj_boss_5_laser/obj_boss_5_laser.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_player_projectile",
